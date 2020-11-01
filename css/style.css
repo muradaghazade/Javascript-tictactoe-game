@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: white;
+}
+.element {
+    border-left: 1px solid #8888;
+    border-bottom: 1px solid #8888;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    height: 100px;
+}
+.element-t {
+    border-left: 1px solid #8888;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    height: 100px;
+}
+.element-f {
+    border-bottom: 1px solid #8888;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    height: 100px;
+}
+.element-o {
+    border-bottom: 1px solid #8888;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    height: 100px;
+}
